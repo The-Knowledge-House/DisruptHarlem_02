@@ -11,9 +11,12 @@ body {
 }
 
 .full {
-  background: url(../pictures/Snail.mp4) no-repeat center center fixed; 
+  background: url(../pictures/maths.jpeg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  
+ 
+  
 }
